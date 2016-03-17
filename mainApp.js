@@ -1,0 +1,1 @@
+var comicApp = angular.module("ComicApp", []);
